@@ -10,6 +10,8 @@
 
 # 1.TEMA
 
+Teorema de la máxima transferencia de potencia
+
 # 2.OBJETIVOS
 . Describir la condicion necesaria para hallar la maxima transferencia de potencia de un circuito electrico.
 

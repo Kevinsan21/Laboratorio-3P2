@@ -11,6 +11,8 @@
 # 1.TEMA
 # 2.OBJETIVOS
 # 3.MARCO TEORICO
+![](https://github.com/Kevinsan21/Pictures-Lab3P2/blob/main/transferenciamax1.PNG)
+![](https://github.com/Kevinsan21/Pictures-Lab3P2/blob/main/transferenciamax2.PNG)
 # 4.EXPLICACION DE PROCEDIMIENTO 
 
 

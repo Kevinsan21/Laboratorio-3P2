@@ -33,6 +33,7 @@
 ![kevito10](https://user-images.githubusercontent.com/84421020/127946438-a9b5333f-e30d-4985-bab4-062709430cd3.jpg)
 
 # 6.VIDEO
+https://youtu.be/yk8lhOVUEuo
 # 7.CONCLUSIONES 
 # 8.BIBLIOGRAFIA
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica

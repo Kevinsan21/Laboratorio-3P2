@@ -9,6 +9,7 @@
 
 
 # 1.TEMA
+
 # 2.OBJETIVOS
 . Describir la condicion necesaria para hallar la maxima transferencia de potencia de un circuito electrico.
 
@@ -41,6 +42,7 @@
 # 6.VIDEO
 https://youtu.be/yk8lhOVUEuo
 # 7.CONCLUSIONES 
+. Se adquirio los conocimientos teoricos aplicados al cicuito por medio del teorema de maxima transferencia de potencia el cual nos dice: Dada una fuente, con una resistencia de fuente fijada de antemano, la resistencia de carga que maximiza la transferencia de potencia es aquella con un valor óhmico igual a la resistencia de fuente.
 
 # 8.BIBLIOGRAFIA
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica

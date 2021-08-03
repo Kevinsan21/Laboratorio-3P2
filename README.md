@@ -13,6 +13,7 @@
 # 3.MARCO TEORICO
 # 4.EXPLICACION DE PROCEDIMIENTO 
 
+
 ![kevin1](https://user-images.githubusercontent.com/84421020/127946079-0c8a62e8-81d3-415b-8e84-7b244c0f1015.jpg)
 ![kevin2](https://user-images.githubusercontent.com/84421020/127946091-dae435c5-53b6-474e-a662-9b907f215ab2.jpg)
 ![kevin3](https://user-images.githubusercontent.com/84421020/127946106-24d42ec8-28b7-4428-b408-008925b9e714.jpg)
@@ -22,7 +23,9 @@
 ![kevin7](https://user-images.githubusercontent.com/84421020/127946156-3d7c3c8b-5775-4098-98ef-73a723ff161d.jpg)
 ![kevin8](https://user-images.githubusercontent.com/84421020/127946198-0b95bbb6-9f56-4bdc-a94c-17c0f67a386a.jpg)
 
+
 # 5.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
+
 
 ![kevito9](https://user-images.githubusercontent.com/84421020/127946371-61c6a235-c8e6-4dfc-a63e-915c0546ff5c.jpg)
 ![kevito10](https://user-images.githubusercontent.com/84421020/127946438-a9b5333f-e30d-4985-bab4-062709430cd3.jpg)

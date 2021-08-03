@@ -10,6 +10,11 @@
 
 # 1.TEMA
 # 2.OBJETIVOS
+. Describir la condicion necesaria para hallar la maxima transferencia de potencia de un circuito electrico.
+
+. Establecer los metodos especificos para tener una mayor vision del circuito que estamos trabajando.
+
+. Demostrar que este teorema se usa para enocntrar la resistencia de carga para lo cual habría la máxima cantidad de transferencia de energía desde la fuente a la carga.
 
 # 3.MARCO TEORICO
 ![](https://github.com/Kevinsan21/Pictures-Lab3P2/blob/main/transferenciamax1.PNG)
@@ -36,5 +41,6 @@
 # 6.VIDEO
 https://youtu.be/yk8lhOVUEuo
 # 7.CONCLUSIONES 
+
 # 8.BIBLIOGRAFIA
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica

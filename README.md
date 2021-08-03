@@ -14,7 +14,7 @@
 
 . Establecer los metodos especificos para tener una mayor vision del circuito que estamos trabajando.
 
-. Demostrar que este teorema se usa para enocntrar la resistencia de carga para lo cual habría la máxima cantidad de transferencia de energía desde la fuente a la carga.
+. Demostrar que este teorema se usa para enocntrar la resistencia de carga para lo cual habría la máxima cantidad de transferencia de energía  desde la fuente a la carga.
 
 # 3.MARCO TEORICO
 ![](https://github.com/Kevinsan21/Pictures-Lab3P2/blob/main/transferenciamax1.PNG)

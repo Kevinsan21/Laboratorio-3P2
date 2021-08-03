@@ -23,6 +23,10 @@
 ![kevin8](https://user-images.githubusercontent.com/84421020/127946198-0b95bbb6-9f56-4bdc-a94c-17c0f67a386a.jpg)
 
 # 5.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
+
+![kevito9](https://user-images.githubusercontent.com/84421020/127946371-61c6a235-c8e6-4dfc-a63e-915c0546ff5c.jpg)
+![kevito10](https://user-images.githubusercontent.com/84421020/127946438-a9b5333f-e30d-4985-bab4-062709430cd3.jpg)
+
 # 6.VIDEO
 # 7.CONCLUSIONES 
 # 8.BIBLIOGRAFIA
